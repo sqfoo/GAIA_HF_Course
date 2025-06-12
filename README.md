@@ -13,6 +13,7 @@ To run this agent, you need to pass several API keys (they are <b>free</b>) in [
 - <b>ASSMEBLY_API</b>: For the tool to listen to mp3
 
 Finally, this agent could complete up to six tasks. It still has the room for improvement. And Here is my Certificate of Completion:
+
 <img src='certificate.jpg' width=500>
 
 Feel free to clone it to HuggingFace hub and run it. 
