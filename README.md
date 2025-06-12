@@ -12,6 +12,7 @@ To run this agent, you need to pass several API keys (they are <b>free</b>) in [
 - <b>SERPER_API</b>: To support web search tools
 - <b>ASSMEBLY_API</b>: For the tool to listen to mp3
 
-Finally, this agent could complete up to six tasks. It still has the room for improvement. 
+Finally, this agent could complete up to six tasks. It still has the room for improvement. And Here is my Certificate of Completion:
+<embed src="certificate.pdf" type="application/pdf">
 
 Feel free to clone it to HuggingFace hub and run it. 
